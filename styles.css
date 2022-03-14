@@ -1,0 +1,257 @@
+
+/* header */
+
+#title{
+    background-color: #363636;
+    height: auto;
+}
+
+#title .container-fluid{
+    max-width: 70%;
+}
+
+.col-sm-12{
+    text-align: center;
+}
+
+.img-thumbnail{
+    width: 70%;
+    background-color: #363636;
+    border: none;
+    border-radius: 50%;
+    margin: 5% 0%;
+    text-align: center;
+}
+
+.col-xlg-8, .col-lg-8, .col-md-8{
+    margin: 3% 0%;
+}
+
+h1, h5{  
+    color: white;
+    font-weight: bolder;
+}
+p{
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+#title a:link, #title a:visited{
+    text-decoration: none;
+}
+
+.lb{
+    width: 7%;
+    margin: 0;
+    padding: 0;
+}
+
+/* navigation bar */
+
+nav .container-fluid{
+    width: 60%;
+    margin: 0% 20%;
+}
+
+nav .row{
+    width: 100%;
+}
+nav .col-4{
+    width: 33.33%;
+    text-align: center;
+    margin: 3% 0%;
+}
+
+nav a:link, nav a:visited{
+    color: #363636;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: black;
+}
+
+/* details */
+
+#details{
+    width: 70%;
+    margin: 1% 15%;
+}
+
+#details .col{
+    text-align: center;
+}
+
+
+#details h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: black;
+}
+
+#details h5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: black;
+    font-weight: lighter;
+}
+
+.History{
+    border-bottom: #333 solid 1px;
+}
+
+#details a:link, #details a:visited{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+#details p{
+    color: black;
+}
+
+/* stats */
+
+table{
+    width: 70%;
+    margin: 3% 15%;
+}
+table a:visited ,table a:link{
+    font-family:Impact;
+    text-decoration: none;
+    color: #333333;
+}
+table a:hover{
+    opacity: .6;
+}
+caption{
+    color: black;
+}
+
+.tg  {
+    border-collapse:collapse;
+    border-color:#ccc;
+    border-spacing:0;
+}
+       
+.tg td{
+    background-color:#fff;
+    border-color:#ccc;
+    border-style:solid;
+    border-width:1px;
+    color:#333;
+    font-family:Arial, sans-serif;
+    font-size:14px;overflow:hidden;
+    padding:10px 20px;
+    word-break:normal;
+}
+        
+.tg th{
+    background-color:#f0f0f0;
+    border-color:#ccc;
+    border-style:solid;
+    border-width:1px;color:#333;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    font-weight:normal;
+    overflow:hidden;
+    padding:10px 20px;
+    word-break:normal;
+}
+
+.tg .tg-wnz0{
+    font-family:Impact, Charcoal, sans-serif !important;
+    text-align:left;
+    vertical-align:top
+}
+        
+.tg .tg-2frz{
+    border-color:inherit;
+    font-family:Impact, Charcoal, sans-serif !important;
+    text-align:left;
+    vertical-align:top
+}
+        
+.tg .tg-z0gw{
+    background-color:#f9f9f9;
+    border-color:inherit;
+    font-family:Impact, Charcoal, sans-serif !important;
+    text-align:left;
+    vertical-align:top
+}
+
+.tg .tg-epob{
+    background-color:#f9f9f9;
+    font-family:Impact, Charcoal, sans-serif !important;
+    text-align:left;
+    vertical-align:top
+}
+
+caption{
+    caption-side: top; 
+    text-align: center;
+}
+
+/* references */
+
+.References{
+    width: 70%;
+    margin: 2% 15%;
+}
+.References h3{
+    text-align: center;
+}
+
+.References .col-lg-3, .References .col-md-4, .References .col-sm-6{
+    text-align: center;
+}
+
+/* highlights */
+
+#highlights{
+    text-align: center;
+}
+h4{
+    margin-top: 5%;
+}
+
+/* footer */
+
+footer{
+    background-color: #bababa;
+    padding-top: 2%;
+}
+
+footer .container-fluid{
+    width: 80%;
+}
+
+footer .media1{
+    margin: 1% 0% 1%;
+    text-align: right;
+}
+footer .media2{
+    margin: 1% 0% 1%;
+    text-align: left;  
+}
+footer .media1 i, footer .media2 i{
+    font-size: 4rem;
+}
+
+footer .col-md-6{
+    text-align: center;
+    margin: 2% 0%;
+}
+
+footer a:link, footer a:visited{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: x-large;
+    color: black;
+}
+
+footer a:hover{
+    opacity: .7;
+}
